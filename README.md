@@ -1,0 +1,1 @@
+A project to help me learn and explore the basics of machine learning by creating an ai to play Connect 4.
